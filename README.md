@@ -7,4 +7,4 @@ Today I leraned about:
  - The edit -commit-push cycle 
 
 My GitHub profile : https://github.com/vihanga20 
-hello this is my new branch **vihnga20 - viha branch
+hello this is my new branch **vihnga20 - viha branch**
